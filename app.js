@@ -12,6 +12,7 @@
 
 
 let myNumber = Number(prompt("Escribi cualquier numero distinto de 0: "));
+console.log(myNumber);
 
 while(myNumber){  //Mientras sea un numero -> EJECUTAR 
     
