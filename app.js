@@ -4,7 +4,7 @@
  * @Author: JOSE LOPEZ RISSO 
  * @Email: jal.risso@gmail.com
  * @Date: 18-07-2022 
- * @License: GPL
+ * @License: 
  * 
  * 
  **/
